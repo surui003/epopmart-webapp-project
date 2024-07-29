@@ -1,2 +1,1 @@
-Epopmart webapp with navigation bar, user registration and login page, user feedback collection, product query and selection with MySQL database.
-Project Demo: https://youtu.be/Kz4GbCxhcU8
+E-POPMART Webapp with navigation bar, user registration and login page, product query and selection page, customer feedback collection page. Made using BootStrap, HTML, Java, MySQL databases and hosted on Tomcat 10 server. Project Demo: https://youtu.be/1fxc1R9MPpo
